@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Beijing, Beihang University, 2014.9-2018.6 (Supervisor: Peng Ouyang)
-* M.S. in Shanghai, Shanghai Jiaotong University, 2018.9-2021.3 (Supervisor: Jiangfei Jiang)
+* M.S. in Shanghai, Shanghai Jiaotong University, 2018.9-2021.3 (Supervisor: Jianfei Jiang)
 * Ph.D in Shanghai, Shanghai Jiaotong University, 2024.4-now
 
 Work experience
